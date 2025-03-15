@@ -1,7 +1,7 @@
 # 🌟 Welcome to My Data Analysis Portfolio! 📊  
 
 Hi there! 👋 I'm **Divin Alex**, a **Data Analyst** passionate about **turning raw data into meaningful insights**.  
-I specialize in **healthcare, finance, and business intelligence analytics**, using **Python, SQL, Power BI, and Tableau**.  
+I specialize in **healthcare, finance, and business intelligence analytics**, using **Python, SQL, Power BI and Tableau**.  
 
 🚀 My goal? **To drive data-driven decision-making and uncover hidden trends in complex datasets!**  
 
@@ -14,8 +14,8 @@ I specialize in **healthcare, finance, and business intelligence analytics**, us
 | Project | Domain | Tools Used | Status |
 |---------|--------|------------|--------|
 | 🏥 **NHS Patient Wait Time Analysis** | Healthcare | Python (Pandas, Matplotlib), SQL, Tableau | 🔄 In Progress |
-| 💰 **Stock Market Trends & Predictions** | Finance | Python (yfinance, Seaborn), SQL, Power BI | ✅ Completed |
-| 📊 **Business Sales Performance Dashboard** | Business Intelligence | SQL, Power BI, Excel | ✅ Completed |
+| 💰 **Stock Market Trends & Predictions** | Finance | Python (yfinance, Seaborn), SQL, Power BI | 🔄 Completed |
+| 📊 **Business Sales Performance Dashboard** | Business Intelligence | SQL, Power BI, Excel | 🔄 Completed |
 | 🌍 **COVID-19 Impact on Global Economy** | Public Health & Economics | Python, Tableau, SQL | 🔄 In Progress |
 
 📌 **More projects coming soon... Stay tuned!**  
@@ -24,8 +24,8 @@ I specialize in **healthcare, finance, and business intelligence analytics**, us
 
 ## 🔥 What I Bring to the Table  
 
-✔ **Exploratory Data Analysis (EDA):** Cleaning, transforming, and extracting meaningful insights.  
-✔ **Data Visualization:** Interactive dashboards using Power BI, Tableau, and Matplotlib.  
+✔ **Exploratory Data Analysis (EDA):** Cleaning, transforming and extracting meaningful insights.  
+✔ **Data Visualization:** Interactive dashboards using Power BI, Tableau and Matplotlib.  
 ✔ **SQL Querying & Database Management:** Writing complex queries for data extraction.  
 ✔ **Machine Learning (Optional for Advanced Projects):** Building predictive models for better decision-making.  
 
@@ -43,17 +43,16 @@ I specialize in **healthcare, finance, and business intelligence analytics**, us
 `PostgreSQL` `MySQL` `Google BigQuery`  
 
 🖥 **Cloud & Big Data:**  
-`Google Cloud Platform (GCP)` `Azure` `AWS` (Basics)  
+`Google Cloud Platform (GCP)` `Azure` `AWS`  
 
 ---
 
 ## 💡 Let's Connect!  
 
-📧 **Email:** [Your Email]  
-💼 **LinkedIn:** [Your LinkedIn Profile]  
-🌐 **Portfolio Website:** [Your Portfolio Link]  
+📧 **Email:** [dalex870@gmail.com]  
+💼 **LinkedIn:** [Your LinkedIn Profile]    
 
-🚀 *Open to collaborations, data projects, and freelance work!*  
+🚀 *Open to collaborations, data projects and freelance work!*  
 
 ---
 
@@ -72,10 +71,3 @@ I specialize in **healthcare, finance, and business intelligence analytics**, us
 3️⃣ **Fork & Contribute:** Feel free to fork the repo, improve existing projects, or add new ones!  
 
 ---
-
-### **🎯 Next Steps**  
-✅ **Commit & push this updated README to GitHub.**  
-✅ **Start working on the first project (NHS Patient Wait Times or Stock Market Analysis).**  
-✅ **Add Jupyter Notebooks, datasets, and visualizations.**  
-
-📌 **Ready to start your first project? Let me know, and I’ll guide you step by step! 🚀**  
