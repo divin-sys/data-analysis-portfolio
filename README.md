@@ -14,8 +14,8 @@ I specialize in **healthcare, finance, and business intelligence analytics**, us
 | Project | Domain | Tools Used | Status |
 |---------|--------|------------|--------|
 | 🏥 **NHS Patient Wait Time Analysis** | Healthcare | Python (Pandas, Matplotlib), SQL, Tableau | 🔄 In Progress |
-| 💰 **Stock Market Trends & Predictions** | Finance | Python (yfinance, Seaborn), SQL, Power BI | 🔄 Completed |
-| 📊 **Business Sales Performance Dashboard** | Business Intelligence | SQL, Power BI, Excel | 🔄 Completed |
+| 💰 **Stock Market Trends & Predictions** | Finance | Python (yfinance, Seaborn), SQL, Power BI | 🔄 In Progress |
+| 📊 **Business Sales Performance Dashboard** | Business Intelligence | SQL, Power BI, Excel | 🔄 In Progress |
 | 🌍 **COVID-19 Impact on Global Economy** | Public Health & Economics | Python, Tableau, SQL | 🔄 In Progress |
 
 📌 **More projects coming soon... Stay tuned!**  
