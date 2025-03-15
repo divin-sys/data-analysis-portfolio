@@ -50,7 +50,7 @@ I specialize in **healthcare, finance, and business intelligence analytics**, us
 ## 💡 Let's Connect!  
 
 📧 **Email:** [dalex870@gmail.com]  
-💼 **LinkedIn:** [Your LinkedIn Profile]    
+💼 **LinkedIn:** [https://www.linkedin.com/in/divingeorgealex/]    
 
 🚀 *Open to collaborations, data projects and freelance work!*  
 
